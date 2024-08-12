@@ -1,0 +1,13 @@
+commands.c
+commands.h
+commands.h.gch
+commands.o
+ebashell
+main.c
+main.o
+out.txt
+print_builtin_commands.gdb
+printingBICmd.gdb
+testFile.txt
+text2.txt
+text.txt
