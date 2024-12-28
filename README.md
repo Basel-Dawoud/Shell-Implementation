@@ -1,6 +1,5 @@
 # Shell-Implementation
 Creating a shell with some advanced features
-Certainly! Here's a comprehensive README file for your shell program:
 
 ## Overview
 
